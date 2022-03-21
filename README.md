@@ -9,8 +9,8 @@ pkg intall git
 pkg install python
 pip install customtkinter
 pip install pywin32
-git clone https://github.com/im087921/iGroup...git
-cd iGroup..
+git clone https://github.com/im087921/iGroup.git
+cd iGroup
 python python client.py
 ```
 
